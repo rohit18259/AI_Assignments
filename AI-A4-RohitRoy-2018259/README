@@ -1,0 +1,6 @@
+The dataset (attached as ‘roo-data.csv’) provides anonymized information for graduates
+along with their respective scores in various CS subjects. Specifically, the suggested job
+role is predicted for every graduate based on the courses they have done.
+
+The task is to make a ML-based prediction system to predict the career for a new
+graduate.
