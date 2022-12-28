@@ -1,0 +1,9 @@
+Write a Prolog program to search a road route from any city to any other city using this
+data. It should work for both cities that are directly connected (say, Ahmedabad to
+Indore) as well as for two cities that are not directly connected (say, Agartala to Hubli).
+
+Now your program should either do option (a) or (b). Each option has two sub-parts and
+both sub-parts have to be done in that option; take an input from the user to decide
+which sub-part is to be shown.
+  a. Show Depth First Search and Best-first search on this data. OR
+  b. Show Breadth First Search and A* search on this data.
