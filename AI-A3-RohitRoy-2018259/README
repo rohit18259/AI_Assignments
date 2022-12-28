@@ -1,0 +1,6 @@
+Write a python program using durable-rules module with forward-chaining rules for
+career advisory system for a graduating student of IIITD based on courses done, grades
+got and interest areas. Make your own rules and test it out with facts.
+
+By doing this system right, you will learn about a proactive AI system that will take data
+in and suggest possible career options for that student based on forward-chaining rules.
