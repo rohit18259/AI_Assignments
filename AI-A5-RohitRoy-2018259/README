@@ -1,3 +1,7 @@
 You have to build a small natural language interface in Python that will provide inputs to
 your electives advisory system developed in Prolog. Make it effective and interesting,
 but keep it simple.
+
+The interface.py is a python based natural language interface that takes the user input,
+tokenizes it and processes it to find root words and stores it in facts.pl file. The root words in facts.pl
+file act as inputs to prolog_code.pl, which is the electives advisory system built in prolog.
